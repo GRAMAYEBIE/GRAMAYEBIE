@@ -21,7 +21,7 @@ I focus on combining performance,automation,and interpretability to build system
 When I'm not working with data, I enjoy Reading, learning new technologies,mentoring others, sport such as Karate and exploring innovative ideas that push my technical limits. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### https://GRAMAYEBIE.github.io/
+"https://code-canvas-essence.lovable.app/"
       
 ## 🔭 What I'm Currently Working On 
 
