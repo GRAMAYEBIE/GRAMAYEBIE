@@ -37,7 +37,7 @@ https://github.com/GRAMAYEBIE
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** EDUCPRO. An intelligente platform that predict the dropping out of scholl follow by conselor AI and the last part is the recommandation for those are going to university based on their performance (done)
-- **Project B:** ILIVON (1er part complete) 
+- **Project B:** ILIVON (1st part complete) 
 
 ## 🌱 Currently Learning 
 
@@ -95,8 +95,9 @@ https://github.com/GRAMAYEBIE
 
 #### Monitoring & Observability
 <p>
-  <img src="https://img.shields.io/badge/MLflow-Advance-3776AB?style=flat&logo=Grafana&logoColor=white" alt="AWS Skill 
+  <img src="https://img.shields.io/badge/MLflow-Advance-3776AB?style=flat&logo=Grafana&logoColor=white" alt="Grafana Skill Badge">
 </p>
+
 
 
 
