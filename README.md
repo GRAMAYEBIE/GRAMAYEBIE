@@ -25,17 +25,24 @@ When I'm not working with data, I enjoy Reading, learning new technologies,mento
 https://code-canvas-essence.lovable.app/
 
 https://github.com/GRAMAYEBIE
+
+## Interresting Project 
+
+-**Project A:** Fraud XAI
+-**Project B:** Agri-Resilience AI
+-**Project C:** Occul AI 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** EDUCPRO. An intelligente platform that predict the dropping out of scholl follow by conselor AI and the last part is the recommandation for those are going to university based on their performance   
-- **Project B:** ILIVON
+- **Project A:** EDUCPRO. An intelligente platform that predict the dropping out of scholl follow by conselor AI and the last part is the recommandation for those are going to university based on their performance (done)
+- **Project B:** ILIVON (1er part complete) 
 
 ## 🌱 Currently Learning 
 
 - Software Engineering 
+- kubernetise 
 - Cloud data warehousing with Google BigQuery
-- Data science and Engineering  (currently in MsC data Science and analytics)
+- Data science and Engineering  (currently in MsC data Science and analytics 2 )
 
 ## 🛠️ Technical Skillset
 
@@ -47,15 +54,15 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI and Streamlit-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Advance-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Eviews,Stata-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="Eviews,Stata Skill Badge">
-  <img src="https://img.shields.io/badge/Java%Script-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/R-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Eviews,Stata-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="Eviews,Stata Skill Badge">
+  <img src="https://img.shields.io/badge/Java%Script-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="">
 </p>
 
 #### Business Intelligence & Analytics
