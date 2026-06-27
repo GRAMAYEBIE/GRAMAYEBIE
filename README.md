@@ -90,7 +90,7 @@ https://github.com/GRAMAYEBIE
 <p>
   <img src="https://img.shields.io/badge/AWS-Advance-3776AB?style=flat&logo=AWS&logoColor=white" alt="AWS Skill Badge">
   <img src="https://img.shields.io/badge/laC-Advanced-E97627?style=flat&logo=Terraform&logoColor=white" alt="n8n Skill Badge">
-  <img src="https://img.shields.io/badge/Google-BigQuery-Advanced-E97627?style=flat&logo=GoogleBig-Query&logoColor=white" alt="Google-BigQuery Skill Badge">
+  <img src="https://img.shields.io/badge/BigQuery-Advanced-E97627?style=flat&logo=BigQuery&logoColor=white" alt="BigQuery Skill Badge">
 </p>
 
 #### Monitoring & Observability
