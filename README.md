@@ -86,3 +86,17 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/Postgres-Advanced-E97627?style=flat&logo=Postgres&logoColor=white" alt="Postgres Skill Badge">
   <img src="https://img.shields.io/badge/pGadmin-Advanced-E97627?style=flat&logo=PGadmin&logoColor=white" alt="PGadmin Skill Badge">
 </p>
+
+#### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Cloud%computing-Advance-3776AB?style=flat&logo=AWS&logoColor=white" alt="AWS Skill Badge">
+  <img src="https://img.shields.io/badge/laC-Advanced-E97627?style=flat&logo=Terraform&logoColor=white" alt="n8n Skill Badge">
+</p>
+
+#### Monitoring & Observability
+<p>
+  <img src="https://img.shields.io/badge/MLflow-Advance-3776AB?style=flat&logo=Grafana&logoColor=white" alt="AWS Skill 
+</p>
+
+
+
