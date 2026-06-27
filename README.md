@@ -89,7 +89,7 @@ https://github.com/GRAMAYEBIE
 
 #### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Cloud%computing-Advance-3776AB?style=flat&logo=AWS&logoColor=white" alt="AWS Skill Badge">
+  <img src="https://img.shields.io/badge/AWS-Advance-3776AB?style=flat&logo=AWS&logoColor=white" alt="AWS Skill Badge">
   <img src="https://img.shields.io/badge/laC-Advanced-E97627?style=flat&logo=Terraform&logoColor=white" alt="n8n Skill Badge">
 </p>
 
