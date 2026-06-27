@@ -62,7 +62,8 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/Python-Advance-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/Eviews,Stata-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="Eviews,Stata Skill Badge">
-  <img src="https://img.shields.io/badge/Java%Script-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Java%Script-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="JavaScript Skill badge">
+  <img src="https://img.shields.io/badge/n8n-Advanced-E97627?style=flat&logo=n8n&logoColor=white" alt="n8n Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
@@ -71,4 +72,15 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Advanced-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
+
+#### Data Engineering
+<p>
+  <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/kafka-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="Kafka Skill Badge">
+  <img src="https://img.shields.io/badge/ETL and ELT-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="ModelingSkill Badge">
+  <img src="https://img.shields.io/badge/Docker-Expert-217346?style=flat&logo=Docker&logoColor=white" alt="Docker Skill Badge">
+  <img src="https://img.shields.io/badge/S3%backet-Advanced-E97627?style=flat&logo=Minio&logoColor=white" alt="S3%backet Skill Badge">
+  <img src="https://img.shields.io/badge/Postgres-Advanced-E97627?style=flat&logo=Postgres&logoColor=white" alt="Postgres Skill Badge">
+  <img src="https://img.shields.io/badge/pGadmin-Advanced-E97627?style=flat&logo=PGadmin&logoColor=white" alt="PGadmin Skill Badge">
 </p>
