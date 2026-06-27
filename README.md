@@ -42,8 +42,6 @@ https://github.com/GRAMAYEBIE
 ## 🌱 Currently Learning 
 
 - Software Engineering 
-- kubernetise 
-- Cloud data warehousing with Google BigQuery
 - Data science and Engineering  (currently in MsC data Science and analytics 2 )
 
 ## 🛠️ Technical Skillset
@@ -85,12 +83,14 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/S3%backet-Advanced-E97627?style=flat&logo=Minio&logoColor=white" alt="S3%backet Skill Badge">
   <img src="https://img.shields.io/badge/Postgres-Advanced-E97627?style=flat&logo=Postgres&logoColor=white" alt="Postgres Skill Badge">
   <img src="https://img.shields.io/badge/pGadmin-Advanced-E97627?style=flat&logo=PGadmin&logoColor=white" alt="PGadmin Skill Badge">
+  <img src="https://img.shields.io/badge/kubernetes-Advanced-E97627?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Skill Badge">
 </p>
 
 #### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-Advance-3776AB?style=flat&logo=AWS&logoColor=white" alt="AWS Skill Badge">
   <img src="https://img.shields.io/badge/laC-Advanced-E97627?style=flat&logo=Terraform&logoColor=white" alt="n8n Skill Badge">
+  <img src="https://img.shields.io/badge/Google%BigQuery-Advanced-E97627?style=flat&logo=GoogleBigQuery&logoColor=white" alt="GoogleBigQuery Skill Badge">
 </p>
 
 #### Monitoring & Observability
