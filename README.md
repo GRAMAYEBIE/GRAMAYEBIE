@@ -95,7 +95,7 @@ https://github.com/GRAMAYEBIE
 
 #### Monitoring & Observability
 <p>
-  <img src="https://img.shields.io/badge/MLflow-Advance-3776AB?style=flat&logo=Grafana&logoColor=white" alt="Grafana Skill Badge">
+  <img src="https://img.shields.io/badge/Grafana-Advance-3776AB?style=flat&logo=Grafana&logoColor=white" alt="Grafana Skill Badge">
 </p>
 
 
