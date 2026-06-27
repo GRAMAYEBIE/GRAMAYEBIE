@@ -64,7 +64,7 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/Python-Advance-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/Eviews,Stata-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="Eviews,Stata Skill Badge">
-  <img src="https://img.shields.io/badge/Java%Script-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="JavaScript Skill badge">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="JavaScript Skill badge">
   <img src="https://img.shields.io/badge/n8n-Advanced-E97627?style=flat&logo=n8n&logoColor=white" alt="n8n Skill Badge">
 </p>
 
