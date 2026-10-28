@@ -1,4 +1,4 @@
-## Hi there, I'm Meschac Gam Ayebie 👋
+## Hi there, I'm Ayebie ZIELEQUIE GRAM MESCHAC 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -18,7 +18,7 @@ I'm a Data scientist and Data engineer passionate about building intelligent sys
 
 I focus on combining performance,automation,and interpretability to build systems that are not only acurate,but truly usable in the real world.
 
-When I'm not working with data, I enjoy Reading, learning new technologies,mentoring others, sport such as Karate and exploring innovative ideas that push my technical limits. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy Reading, learning new technologies,mentoring others, sport such as Karate and exploring innovative ideas that push my technical limits. I love the "aha!" moment when data reveals something new and useful. GIGO 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ## Github 
@@ -33,16 +33,32 @@ https://github.com/GRAMAYEBIE
 
 -**Project C:** Occul AI 
 
+- **Project D:** EDUCPRO
+
+- **Project E:** ILIVON
+
+-  **Project F:** PROCUREGUARD
+
+- **Project G:** CIVALERTE
+
+- **Project H:** BRVMPRO
+
+- **PROJECT I :** REAL_TIME_DATA_ENGINEERING_DVD_RENTAL
+ 
+
+
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** EDUCPRO. An intelligente platform that predict the dropping out of scholl follow by conselor AI and the last part is the recommandation for those are going to university based on their performance (done)
-- **Project B:** ILIVON (1st part complete) 
+- **Project A:** CIVALERTE
+- **Project B:** PROCUREGUARD (CAPSTONE PROJECT )
+- **PROJECT C :**  AGRI_RESILIENCE (PLATFORM)
 
 ## 🌱 Currently Learning 
 
 - Software Engineering 
 - Data science and Engineering  (currently in MsC data Science and analytics 2 )
+- ACTURIAL SCIENCE 
 
 ## 🛠️ Technical Skillset
 
