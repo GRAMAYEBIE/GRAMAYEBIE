@@ -27,11 +27,11 @@ https://github.com/GRAMAYEBIE
 
 ## Interresting Project 
 
--**Project A:** Fraud XAI
+- **Project A:** Fraud XAI
 
--**Project B:** Agri-Resilience AI
+- **Project B:** Agri-Resilience AI
 
--**Project C:** Occul AI 
+- **Project C:** Occul AI 
 
 - **Project D:** EDUCPRO
 
